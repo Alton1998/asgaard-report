@@ -1,0 +1,35 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Isolating Action Moments in Film}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Presence of Multiple Action Scenarios}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Data Collation}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Related Works}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Methodology}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Proposed Approach}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Shot Boundary Detection (SBD)}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Key Shot Extraction or Key Frame Extraction (KSE or KFE)}{12}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Video Classification}{13}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Dataset}{13}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Experiments}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Autoshot vs Cosine Similarity of SigLIP extracted features for Shot Boundary Detection}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Video Classification with Euclidean based Keyshots}{14}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Results and Discussion}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Autoshot vs Cosine Similarity of SigLIP extracted}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Video Classification with Euclidean based Keyshot Extraction}{24}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Conclusion}{28}{chapter.5}%
+\contentsline {chapter}{Bibliography}{29}{chapter*.29}%
+\contentsline {chapter}{Appendices}{32}{chapter*.29}%
+\contentsline {chapter}{\numberline {A}Dataset for Shot Boundary Detection Evaluation}{32}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Dataset for Various Action forms in the movie}{33}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Annotated Movie Dataset}{34}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Code for Data Preparation}{35}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Code for Shot Boundary Detection}{41}{appendix.E}%
+\contentsline {chapter}{\numberline {F}Code for Key Shot Frame Extraction}{49}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Code for LLM inference}{54}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Data Generated from Autoshot and SigLIP extracted features}{60}{appendix.H}%
+\contentsline {chapter}{\numberline {I}Code To Extract Shot Clips from Shot Boundary Files}{61}{appendix.I}%
+\contentsline {chapter}{\numberline {J}Code To Extract Frames from Videos}{63}{appendix.J}%
+\contentsline {chapter}{\numberline {K}Code To Perform Shot Extraction with Autoshot model}{65}{appendix.K}%
+\contentsline {chapter}{\numberline {L}Code used for Fine tuning LLaVA}{68}{appendix.L}%
+\contentsline {chapter}{\numberline {M}Result of Shots Detected for various transitions by Autoshot and with SigLIP with cosine similarity}{72}{appendix.M}%
+\contentsline {chapter}{\numberline {N}Zero Shot Video classification of Euclidean base keyshot extraction}{73}{appendix.N}%
+\contentsline {chapter}{\numberline {O}Code for analyzing the optimum cosine similarity threshold in SigLIP}{74}{appendix.O}%

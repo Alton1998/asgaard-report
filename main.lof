@@ -1,0 +1,44 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces One-on-One fight scene in the movie "From Russia with Love (1963)" (High typicality) \cite {tico-romao-2024}}}{2}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Multi-participant fight in the film "Saving Private Ryan (1998)" (High typicality)\cite {tico-romao-2024}}}{2}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces A scene of one sided act of aggression in the movie "Red Dawn (1984)" (Medium Typicality) \cite {tico-romao-2024}}}{2}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces A one sided aggression scene from "Logan (2017)"(Low Typicality)\cite {tico-romao-2024}}}{2}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Heist and fight scenarios happening concurrently in "Bonnie and Clyde (1967)" (Vertical Combination) \cite {tico-romao-2024}}}{3}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Heist and scenarios happening sequentially in "Bonnie and Clyde (1967)" (Horizontal Combination) \cite {tico-romao-2024}}}{3}{figure.caption.10}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Illustration of the proposed pipeline for identifying films}}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Video Hierarchy \cite {sbd}}}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Example of a fade out transition}}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Example of fade in transition}}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Example of a dissolve transition}}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Example of wipe transition}}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Illustration of Shot Boundary Detection with SigLIP and Cosine Similarity}}{17}{figure.caption.15}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Shows that Autoshot fails to detect fade in}}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Shows that Autoshot fails to detect fade out}}{20}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Shows that ability of SigLIP to detect fade out transitions}}{21}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Shows that ability of SigLIP to detect fade in transitions}}{22}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Shows that Autoshot cuts shot boundaries when the lighting changes}}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Shows SigLIPs Robustness to lighting changes}}{24}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Shot Boundary Start Error Results for 149 shots}}{25}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Shot Boundary End Error Results for 149 shots}}{26}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Illustration of effect of threshold on accuracy of shot boundary clip end points}}{26}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Illustration of effect of threshold on accuracy of shot boundary clip start points}}{27}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Shows loss analysis of various models we experimented against euclidean base key shot extraction}}{27}{figure.caption.28}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
